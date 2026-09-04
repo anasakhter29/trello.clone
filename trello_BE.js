@@ -20,7 +20,7 @@ const users = [{
 }];
 const organization = [{
     id: 1,
-    name: 'anas.organization' shdhdh
+    name: 'anas.organization' 
 },{
     id: 2,  
     name: 'zaid.organization'
